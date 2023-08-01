@@ -7,9 +7,11 @@
 			class="header__logo"
 			>Uptify</a
 		>
-		<img
-			src="@/assets/buttons/login.svg"
-			alt="SVG file" />
+		<button>
+			<img
+				src="@/assets/buttons/login.svg"
+				alt="SVG file" />
+		</button>
 	</header>
 </template>
 
