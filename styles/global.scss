@@ -155,3 +155,17 @@ label {
 legend {
 	display: block;
 }
+
+.swiper-pagination {
+	position: relative !important;
+	margin-top: 22px;
+}
+
+.swiper-pagination-bullet {
+	background: rgba(255, 255, 255, 0.16) !important;
+	opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active {
+	background: #0a72d4 !important;
+}
